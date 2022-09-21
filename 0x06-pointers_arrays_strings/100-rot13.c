@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
  * rot13 - change letters to ROT13.
  * @s: string to check
